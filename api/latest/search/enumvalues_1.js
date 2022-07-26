@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['backendx11_0',['BackendX11',['../class_ogre_1_1_vulkan_window.html#a2fc0b6db40b34292299d6a6c6c7860f2a0ed28e460846ce7e81d531ecdd52118f',1,'Ogre::VulkanWindow']]],
+  ['backendx11_0',['BackendX11',['../class_ogre_1_1_vulkan_window_swap_chain_based.html#ab12be5918fc0d0c3a827250bf4f4d281a38c0af4dede0c20c83e78cf054666259',1,'Ogre::VulkanWindowSwapChainBased']]],
   ['bb_5fflag_5fconst_1',['BB_FLAG_CONST',['../namespace_ogre.html#af7e92c9a326b9cb618defcbc96e2feaca4f3a68015a1080b9caaa77434a8ba9fe',1,'Ogre']]],
   ['bb_5fflag_5findex_2',['BB_FLAG_INDEX',['../namespace_ogre.html#af7e92c9a326b9cb618defcbc96e2feaca2aa3e93a974e80c817b438e6f7059841',1,'Ogre']]],
   ['bb_5fflag_5findirect_3',['BB_FLAG_INDIRECT',['../namespace_ogre.html#af7e92c9a326b9cb618defcbc96e2feaca1b10675ddac28e5fc4a65e078976f772',1,'Ogre']]],
@@ -61,14 +61,15 @@ var searchData=
   ['bp_5ftype_5fvertex_58',['BP_TYPE_VERTEX',['../namespace_ogre.html#ab66e67b60d5f40dacf69ea55b82868aba740abc88b46822e30de8802282f1b86a',1,'Ogre']]],
   ['brdf_5fmask_59',['BRDF_MASK',['../namespace_ogre_1_1_pbs_brdf.html#ae5bb5c2b5a05b4ce98b74822dedf3ffeaed39e35f98d267c08f20d8ebb6822c37',1,'Ogre::PbsBrdf']]],
   ['bt_5fdefault_60',['BT_DEFAULT',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9aa08ceed67b36cee74ed5b98f3864ab6d',1,'Ogre']]],
-  ['bt_5fdynamic_5fdefault_61',['BT_DYNAMIC_DEFAULT',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9a3c263c60e96eb7ef68ad8886e70c8969',1,'Ogre']]],
-  ['bt_5fdynamic_5fpersistent_62',['BT_DYNAMIC_PERSISTENT',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9a169d359155879c68b8462d3cb0be8a4a',1,'Ogre']]],
-  ['bt_5fdynamic_5fpersistent_5fcoherent_63',['BT_DYNAMIC_PERSISTENT_COHERENT',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9aecb23d7992b7bdaf3c01af0759cf527c',1,'Ogre']]],
-  ['bt_5ffragment_64',['BT_FRAGMENT',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8a39c5f87a9b1c5873ece87f48cba19970',1,'Ogre::TextureUnitState']]],
-  ['bt_5fgeometry_65',['BT_GEOMETRY',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8a44dd1976abdef621f899dbd5b07cf2a6',1,'Ogre::TextureUnitState']]],
-  ['bt_5fimmutable_66',['BT_IMMUTABLE',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9adb62fa4394e5ed5eb8d45742e6b28719',1,'Ogre']]],
-  ['bt_5ftessellation_5fdomain_67',['BT_TESSELLATION_DOMAIN',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8ab49cb1270c042c02e106a0af5feb2627',1,'Ogre::TextureUnitState']]],
-  ['bt_5ftessellation_5fhull_68',['BT_TESSELLATION_HULL',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8a64c2b3822fbb577f7ed8749e82b9119a',1,'Ogre::TextureUnitState']]],
-  ['bt_5fvertex_69',['BT_VERTEX',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8a857de1fa5e307a5a5b0df779ad4a470e',1,'Ogre::TextureUnitState']]],
-  ['buildinstantradiosity_70',['BuildInstantRadiosity',['../namespace_ogre_1_1_scene_flags.html#af3190017d83d94455e645c506aa1681baceb12ece684abf5f97d151487dbc7e5a',1,'Ogre::SceneFlags']]]
+  ['bt_5fdefault_5fshared_61',['BT_DEFAULT_SHARED',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9ab90d85a967d1647087d9e525778e9bc1',1,'Ogre']]],
+  ['bt_5fdynamic_5fdefault_62',['BT_DYNAMIC_DEFAULT',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9a3c263c60e96eb7ef68ad8886e70c8969',1,'Ogre']]],
+  ['bt_5fdynamic_5fpersistent_63',['BT_DYNAMIC_PERSISTENT',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9a169d359155879c68b8462d3cb0be8a4a',1,'Ogre']]],
+  ['bt_5fdynamic_5fpersistent_5fcoherent_64',['BT_DYNAMIC_PERSISTENT_COHERENT',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9aecb23d7992b7bdaf3c01af0759cf527c',1,'Ogre']]],
+  ['bt_5ffragment_65',['BT_FRAGMENT',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8a39c5f87a9b1c5873ece87f48cba19970',1,'Ogre::TextureUnitState']]],
+  ['bt_5fgeometry_66',['BT_GEOMETRY',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8a44dd1976abdef621f899dbd5b07cf2a6',1,'Ogre::TextureUnitState']]],
+  ['bt_5fimmutable_67',['BT_IMMUTABLE',['../namespace_ogre.html#a579e6aa73b3f580b1227a5c80991dbc9adb62fa4394e5ed5eb8d45742e6b28719',1,'Ogre']]],
+  ['bt_5ftessellation_5fdomain_68',['BT_TESSELLATION_DOMAIN',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8ab49cb1270c042c02e106a0af5feb2627',1,'Ogre::TextureUnitState']]],
+  ['bt_5ftessellation_5fhull_69',['BT_TESSELLATION_HULL',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8a64c2b3822fbb577f7ed8749e82b9119a',1,'Ogre::TextureUnitState']]],
+  ['bt_5fvertex_70',['BT_VERTEX',['../class_ogre_1_1_texture_unit_state.html#a411bcf3e69280ce146f09ddc73d9e7e8a857de1fa5e307a5a5b0df779ad4a470e',1,'Ogre::TextureUnitState']]],
+  ['buildinstantradiosity_71',['BuildInstantRadiosity',['../namespace_ogre_1_1_scene_flags.html#af3190017d83d94455e645c506aa1681baceb12ece684abf5f97d151487dbc7e5a',1,'Ogre::SceneFlags']]]
 ];

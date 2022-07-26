@@ -27,6 +27,7 @@ var class_ogre_1_1_vulkan_queue =
     [ "endRenderEncoder", "class_ogre_1_1_vulkan_queue.html#add80ec09a31bed7221ce55a639eea902", null ],
     [ "getComputeEncoder", "class_ogre_1_1_vulkan_queue.html#a606c100841cc1a5fd9d335e6b563dacd", null ],
     [ "getCopyEncoder", "class_ogre_1_1_vulkan_queue.html#a036b99841e3865ee04bd05f624fd97c5", null ],
+    [ "getCopyEncoderAsyncTextureTicketUpload", "class_ogre_1_1_vulkan_queue.html#a56cf2386195d4fefc73f0cace3e873d0", null ],
     [ "getCopyEncoderV1Buffer", "class_ogre_1_1_vulkan_queue.html#affa78f52be9822ce962cdc65875edd10", null ],
     [ "getEncoderState", "class_ogre_1_1_vulkan_queue.html#a643ba4b203d2859598a0e483d4e4ca54", null ],
     [ "getFamilyIdx", "class_ogre_1_1_vulkan_queue.html#a424e609f3f750db0c72ad16fb36d3af3", null ],
@@ -36,6 +37,7 @@ var class_ogre_1_1_vulkan_queue =
     [ "isFenceFlushed", "class_ogre_1_1_vulkan_queue.html#aa81e74a7a7bf8ca155e3db8d944c9e27", null ],
     [ "notifyTextureDestroyed", "class_ogre_1_1_vulkan_queue.html#aa2744c3b250b6973b7a6c61dc230ffc2", null ],
     [ "releaseFence", "class_ogre_1_1_vulkan_queue.html#a02cfbf4a11ef5ecf3a8778b69c525660", null ],
+    [ "setExternalQueue", "class_ogre_1_1_vulkan_queue.html#a3a960d1477ee79cf6fdb98fde9d00fff", null ],
     [ "setQueueData", "class_ogre_1_1_vulkan_queue.html#aae7866bee8f06b6dec53a33364a8934c", null ],
     [ "mCurrentCmdBuffer", "class_ogre_1_1_vulkan_queue.html#ad22ea4969d6b297d83e1af3c954c9c6f", null ],
     [ "mDevice", "class_ogre_1_1_vulkan_queue.html#a8248a57438f2e4fdb31151f61257988f", null ],
@@ -44,5 +46,5 @@ var class_ogre_1_1_vulkan_queue =
     [ "mOwnerDevice", "class_ogre_1_1_vulkan_queue.html#a77dea2f32c03d2e2b5a408ca80256471", null ],
     [ "mQueue", "class_ogre_1_1_vulkan_queue.html#a6218144526c7c733e9c2c6067193bd5e", null ],
     [ "mQueueIdx", "class_ogre_1_1_vulkan_queue.html#a7cfd51fac6b1ab3356c32cfa2992b475", null ],
-    [ "mWindowsPendingSwap", "class_ogre_1_1_vulkan_queue.html#a02dda70cc44eb081074237da26c0f918", null ]
+    [ "mWindowsPendingSwap", "class_ogre_1_1_vulkan_queue.html#a91aa95835506d65fa451a4842d4bb1ff", null ]
 ];
