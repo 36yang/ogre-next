@@ -425,6 +425,7 @@ var group___scene =
       [ "validateAllNodes", "class_ogre_1_1_compositor_manager2.html#af6277a3536a4d3c878989cab4f4a7beb", null ]
     ] ],
     [ "Ogre::CompositorPassProvider", "class_ogre_1_1_compositor_pass_provider.html", [
+      [ "~CompositorPassProvider", "class_ogre_1_1_compositor_pass_provider.html#a220d2b75a54f39299aeb359f56810e58", null ],
       [ "addPass", "class_ogre_1_1_compositor_pass_provider.html#adb4a50957a720e8292cd0eaba116273b", null ],
       [ "addPassDef", "class_ogre_1_1_compositor_pass_provider.html#abcb0e0006a30c29f4df718365b97d6b9", null ],
       [ "operator delete", "class_ogre_1_1_compositor_pass_provider.html#a8357fe4fb4849772b94baa4bf47c7ded", null ],
@@ -437,7 +438,8 @@ var group___scene =
       [ "operator new", "class_ogre_1_1_compositor_pass_provider.html#a63fc6bdc2eb6aeac24898a77ec5e2023", null ],
       [ "operator new[]", "class_ogre_1_1_compositor_pass_provider.html#adce32528577d71b228692df906ecd17c", null ],
       [ "operator new[]", "class_ogre_1_1_compositor_pass_provider.html#aed1464ac3de21ff20db8f9f1f8608dc7", null ],
-      [ "translateCustomPass", "class_ogre_1_1_compositor_pass_provider.html#a3faf3c61e46b3ca1d8dd9e40396c82df", null ]
+      [ "translateCustomPass", "class_ogre_1_1_compositor_pass_provider.html#a3faf3c61e46b3ca1d8dd9e40396c82df", null ],
+      [ "translateCustomPass", "class_ogre_1_1_compositor_pass_provider.html#ad4cb882930b2338c0637f5bb4747777c", null ]
     ] ],
     [ "Ogre::ConcentricShadowCamera", "class_ogre_1_1_concentric_shadow_camera.html", [
       [ "ConcentricShadowCamera", "class_ogre_1_1_concentric_shadow_camera.html#ace6bf123e5c6241d0fe660f42f43e38a", null ],
@@ -723,7 +725,7 @@ var group___scene =
       [ "createEntity", "class_ogre_1_1_default_scene_manager.html#a942371c3418e00862e25e3038b8c34dc", null ],
       [ "createIntersectionQuery", "class_ogre_1_1_default_scene_manager.html#a330ae308e614a06f201e1c460014b8c7", null ],
       [ "createItem", "class_ogre_1_1_default_scene_manager.html#a2e241b0afc26f04733c70e7c453b8787", null ],
-      [ "createItem", "class_ogre_1_1_default_scene_manager.html#a096a0b8744464d12eecc7c8bf5059684", null ],
+      [ "createItem", "class_ogre_1_1_default_scene_manager.html#aff2ceebf9755716d814d867e810e0269", null ],
       [ "createLight", "class_ogre_1_1_default_scene_manager.html#a7399c836bf57186f171f4eb456c7fe4d", null ],
       [ "createManualObject", "class_ogre_1_1_default_scene_manager.html#a58defccc8c64e751db9b32a51c39c916", null ],
       [ "createMovableObject", "class_ogre_1_1_default_scene_manager.html#a70456cfbc5e944ab3e98e8d725e6f761", null ],
@@ -1081,7 +1083,7 @@ var group___scene =
       [ "_getManager", "class_ogre_1_1_item.html#a5000db81de5b2acf806c46ad04d1ada7", null ],
       [ "_getObjectData", "class_ogre_1_1_item.html#ab90b269de93324996df439355dd69dd2", null ],
       [ "_getParentNodeFullTransform", "class_ogre_1_1_item.html#a2323c56dfd3aff97f45fcb92b39c85c4", null ],
-      [ "_initialise", "class_ogre_1_1_item.html#a4adc0275cc4fb1e0650b3214b0436d94", null ],
+      [ "_initialise", "class_ogre_1_1_item.html#aa99cd1f377e6faf17d853990727f452b", null ],
       [ "_notifyAttached", "class_ogre_1_1_item.html#a4c29a048d9254c17c43a9fa313df0a6b", null ],
       [ "_notifyManager", "class_ogre_1_1_item.html#a865cb46cc09cbb8bd560abeca1d0d31e", null ],
       [ "_notifyParentNodeMemoryChanged", "class_ogre_1_1_item.html#a560fec5e2aa60edc127ccd0d98f96696", null ],
@@ -2321,7 +2323,7 @@ var group___scene =
       [ "createEntity", "class_ogre_1_1_scene_manager.html#a942371c3418e00862e25e3038b8c34dc", null ],
       [ "createIntersectionQuery", "class_ogre_1_1_scene_manager.html#a330ae308e614a06f201e1c460014b8c7", null ],
       [ "createItem", "class_ogre_1_1_scene_manager.html#a2e241b0afc26f04733c70e7c453b8787", null ],
-      [ "createItem", "class_ogre_1_1_scene_manager.html#a096a0b8744464d12eecc7c8bf5059684", null ],
+      [ "createItem", "class_ogre_1_1_scene_manager.html#aff2ceebf9755716d814d867e810e0269", null ],
       [ "createLight", "class_ogre_1_1_scene_manager.html#a7399c836bf57186f171f4eb456c7fe4d", null ],
       [ "createManualObject", "class_ogre_1_1_scene_manager.html#a58defccc8c64e751db9b32a51c39c916", null ],
       [ "createMovableObject", "class_ogre_1_1_scene_manager.html#a70456cfbc5e944ab3e98e8d725e6f761", null ],
