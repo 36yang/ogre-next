@@ -1,5 +1,11 @@
 var NAVTREEINDEX4 =
 {
+"_ogre_lod_config_serializer_8h.html":[8,0,0,2,0,9],
+"_ogre_lod_data_8h.html":[8,0,0,2,0,10],
+"_ogre_lod_data_8h.html#a4ab13ea31c94ca532d07f7769f19c70c":[8,0,0,2,0,10,8],
+"_ogre_lod_input_provider_8h.html":[8,0,0,2,0,11],
+"_ogre_lod_input_provider_buffer_8h.html":[8,0,0,2,0,12],
+"_ogre_lod_input_provider_mesh_8h.html":[8,0,0,2,0,13],
 "_ogre_lod_listener_8h.html":[8,0,2,0,126],
 "_ogre_lod_output_provider_8h.html":[8,0,0,2,0,14],
 "_ogre_lod_output_provider_buffer_8h.html":[8,0,0,2,0,15],
@@ -26,6 +32,8 @@ var NAVTREEINDEX4 =
 "_ogre_lw_string_8h.html":[8,0,2,0,132],
 "_ogre_lw_string_8h.html#a5a16a58b685bb43e9ecf56e345dcdc1d":[8,0,2,0,132,4],
 "_ogre_lw_string_8h.html#aabb8b876e7495cfb11a152cdf728815c":[8,0,2,0,132,3],
+"_ogre_lw_string_8h.html#ab8d0c29be4a0623c3de58011991e86e9":[8,0,2,0,132,5],
+"_ogre_lw_string_8h.html#ac582131d7a7c8ee57e73180d1714f9d5":[8,0,2,0,132,6],
 "_ogre_manual_object2_8h.html":[8,0,2,0,134],
 "_ogre_manual_object_8h.html":[8,0,2,0,133],
 "_ogre_material_8h.html":[8,0,2,0,135],
@@ -104,10 +112,10 @@ var NAVTREEINDEX4 =
 "_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540ab4295ed7567385d3d32e8bbf7f69ed0f":[8,0,4,3,0,13,1,26],
 "_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540ab4ce241b06f303ca69ec7d6e7445381f":[8,0,4,3,0,13,1,24],
 "_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540ab88d99795b06ddfab7dca3bc55dea303":[8,0,4,3,0,13,1,6],
-"_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540ac3a7d5a193ef3c437fcbdc8c61cc34a2":[8,0,4,3,0,13,1,20],
 "_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540ac3a7d5a193ef3c437fcbdc8c61cc34a2":[8,0,4,3,0,13,1,15],
-"_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540acd7ddc0ba749aedac2cc5094d3fdd798":[8,0,4,3,0,13,1,19],
+"_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540ac3a7d5a193ef3c437fcbdc8c61cc34a2":[8,0,4,3,0,13,1,20],
 "_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540acd7ddc0ba749aedac2cc5094d3fdd798":[8,0,4,3,0,13,1,28],
+"_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540acd7ddc0ba749aedac2cc5094d3fdd798":[8,0,4,3,0,13,1,19],
 "_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540ad1bedf019953e0d051a8a7e2a09239ab":[8,0,4,3,0,13,1,25],
 "_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540adfcb13f3e780b581c69f3bcedda4f0f7":[8,0,4,3,0,13,1,7],
 "_ogre_metal_pixel_format_to_shader_type_8h.html#a320bd6a6b273a3abe76add6b64ff8540adfd30f4d22843cdfaa3527cbf82d21fd":[8,0,4,3,0,13,1,22],
@@ -241,13 +249,5 @@ var NAVTREEINDEX4 =
 "_ogre_particle_f_x_prerequisites_8h.html#a27fcc50572846f64f2a53a10dda7e094":[8,0,3,1,0,24,0],
 "_ogre_particle_iterator_8h.html":[8,0,2,0,175],
 "_ogre_particle_system_8h.html":[8,0,2,0,176],
-"_ogre_particle_system_manager_8h.html":[8,0,2,0,177],
-"_ogre_particle_system_renderer_8h.html":[8,0,2,0,178],
-"_ogre_pass_8h.html":[8,0,2,0,179],
-"_ogre_patch_mesh_8h.html":[8,0,2,0,180],
-"_ogre_patch_surface_8h.html":[8,0,2,0,181],
-"_ogre_pcc_per_pixel_grid_placement_8h.html":[8,0,0,1,1,0,0,4],
-"_ogre_pixel_conversions_8h.html":[8,0,2,1,1],
-"_ogre_pixel_count_lod_strategy_8h.html":[8,0,2,0,182],
-"_ogre_pixel_format_gpu_8h.html":[8,0,2,0,183]
+"_ogre_particle_system_manager_8h.html":[8,0,2,0,177]
 };

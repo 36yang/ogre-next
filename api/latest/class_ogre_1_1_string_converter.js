@@ -13,11 +13,13 @@ var class_ogre_1_1_string_converter =
     [ "parseMatrix4", "class_ogre_1_1_string_converter.html#a9ceacfd6e4f13f89c1ec03f5ef754b58", null ],
     [ "parseQuaternion", "class_ogre_1_1_string_converter.html#adf71ad0ddbc54ab1d742e10a0dc18911", null ],
     [ "parseReal", "class_ogre_1_1_string_converter.html#a9633e8a5b340ca0c3b36aa51efb4cc5d", null ],
+    [ "parseShort", "class_ogre_1_1_string_converter.html#a71cbf5c6e30b5a0da5966085176aa51b", null ],
     [ "parseSizeT", "class_ogre_1_1_string_converter.html#a0cdfb81eecf49efe65f33593f2251b39", null ],
     [ "parseStereoMode", "class_ogre_1_1_string_converter.html#a2b0bf2b7d279c782d175797ecccdb769", null ],
     [ "parseStringVector", "class_ogre_1_1_string_converter.html#a041e06bfaeca7a8950bbd04176d1b826", null ],
     [ "parseUnsignedInt", "class_ogre_1_1_string_converter.html#a8d3fd443406ecfc3556dc0195385bb22", null ],
     [ "parseUnsignedLong", "class_ogre_1_1_string_converter.html#a6fb788b88702ece1e667c145204f7640", null ],
+    [ "parseUnsignedShort", "class_ogre_1_1_string_converter.html#a005f5d6bc12a99411b1b4c896840f4b2", null ],
     [ "parseVector2", "class_ogre_1_1_string_converter.html#a0759107b842b8483abbce915a74dd5e1", null ],
     [ "parseVector3", "class_ogre_1_1_string_converter.html#a4de896cef79f4620355149a42c43dff6", null ],
     [ "parseVector4", "class_ogre_1_1_string_converter.html#a7dd1a2f936cced85559abb1f948bdecb", null ],
@@ -41,5 +43,6 @@ var class_ogre_1_1_string_converter =
     [ "toString", "class_ogre_1_1_string_converter.html#a9601d02e62790f039128170a3ed4d5da", null ],
     [ "toString", "class_ogre_1_1_string_converter.html#a16f86bf7f546c9a6c0d3477e84f12024", null ],
     [ "toString", "class_ogre_1_1_string_converter.html#a184e73275f33b8191a756dad27e391b2", null ],
+    [ "toString", "class_ogre_1_1_string_converter.html#a1fcc92ec31fa27f8712b28f01743705c", null ],
     [ "toString", "class_ogre_1_1_string_converter.html#aa1378ae68227b869fc21b4bb9110d2db", null ]
 ];
